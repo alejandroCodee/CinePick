@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>1_fondo - copia (3).png</file>
+        <file>1_fondo - copia.png</file>
+        <file>1_fondo.png</file>
+        <file>foto2 (1).png</file>
+        <file>icon_welcome.png</file>
+        <file>accion.png</file>
+        <file>aventura.png</file>
+        <file>ciencia_ficcion.png</file>
+        <file>comedia.png</file>
+        <file>drama.png</file>
+        <file>fantasia.png</file>
+        <file>horror.png</file>
+        <file>misterio.png</file>
+        <file>thriller.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>POSTERS/E.T..png</file>
+        <file>POSTERS/El Padrino.jpg</file>
+        <file>POSTERS/ForrestGump.jpg</file>
+        <file>POSTERS/La lista de Schindler.jpg</file>
+        <file>POSTERS/Titanic.png</file>
+    </qresource>
+</RCC>
